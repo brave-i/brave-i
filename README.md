@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Full Stack Web and Blockchain Engineer 👋
+#### I am fascinated by blockchain technology and how it is changing the way we live, and bring over 6 years of relevant experience efficiently coding full stack blockchain and web applications using Javascript, TypeScript, React, Angular, Web3.js, Node.js, Python, C#, PHP!
 
 <!--
 **brave-i/brave-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
